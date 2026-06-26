@@ -241,7 +241,7 @@ This entire compromise uses misconfigurations and Kerberos protocol features —
 ---
 
 ## References
-
+https://tryhackme.com/room/attacktivedirectory?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=66dd4ee24a4f02d6c59dd4e7
 - [Impacket Suite](https://github.com/fortra/impacket)
 - [Kerbrute](https://github.com/ropnop/kerbrute)
 - [Evil-WinRM](https://github.com/Hackplayers/evil-winrm)
